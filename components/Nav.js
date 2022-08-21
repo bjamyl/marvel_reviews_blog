@@ -8,7 +8,7 @@ const Nav = () => {
 
   return (
     <>
-      <Menu/>
+      {/* <Menu/> */}
       <nav className="bg-[#E81127] text-white flex justify-between py-2 px-20">
         <div>
           <h1 className="text-3xl">Logo</h1>
